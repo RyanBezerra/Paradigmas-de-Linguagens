@@ -1,3 +1,2 @@
 # Paradigmas de Linguagens
  
-teste
