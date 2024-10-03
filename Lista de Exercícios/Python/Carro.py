@@ -1,3 +1,4 @@
+# Questão 1, 2 e 6
 class Motor:
     def __init__(self, tipo, potencia):
         self.tipo = tipo
